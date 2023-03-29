@@ -44,10 +44,8 @@ main p {
     padding: 5px;
     margin: 3rem 2rem;
     line-height: 2em;
-    font-weight: bolder;
     font-size: 3.5vw;
     white-space: nowrap;
-    
 }
 
 .primeira {
@@ -72,9 +70,10 @@ main p {
 
 main > div p {
     margin: 1rem 1.5rem;
-    background-color: rgba(0, 0, 0, 0.633);
+    background-color: rgba(0, 0, 0, 0.471);
     color: white;
     display: inline-block;
+    text-shadow: 2px 2px 2px black
 }
 
 footer {
